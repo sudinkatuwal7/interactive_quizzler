@@ -88,5 +88,4 @@ python main.py
 
 ## 👨‍💻 Author
 
-Sudin Katuwal  
-GitHub: https://github.com/sudinkatuwal7
+Sudin Katuwal
